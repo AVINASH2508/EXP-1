@@ -19,6 +19,7 @@ KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
+
 PROCEDURE:
 a.   KVL:
 1.   Connect as per the circuit diagram.
