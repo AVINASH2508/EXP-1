@@ -1,27 +1,56 @@
 # EXP-1
-EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+EXPT NO: 
+
+1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
+
+
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
+
+
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
+
+
 S.No.	Components	Range	Quantity
+
+
 1	Resistor	1kΩ	3
+
+
 2	Voltmeter (DC)	0-30V	3
+
+
 3	Ammeter (DC)	(0-200)mA	3
+
+
 4	Bread Board		1
+
+
 5	Regulated Power Supply	(0-30)V	1
 6	Connecting wires		As required
 
 THEORY:
+
+
 KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
-KCL:
+
+
+KCL: Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+
+
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
 
+
 PROCEDURE:
+
+
 a.   KVL:
+
+
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -41,69 +70,30 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 
 
-## CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM:
+
+Calculation:
+
+Tabulation:
+![IMG-20251106-WA0033](https://github.com/user-attachments/assets/a193b013-8295-41b7-8ada-94f308d997a6)
+
+![IMG-20251106-WA0034](https://github.com/user-attachments/assets/e2260e7f-e832-4409-97bb-491376877bcd)
+
+![IMG-20251106-WA0035](https://github.com/user-attachments/assets/a7770220-000d-413c-8014-30d403a0fa44)
+
+![IMG-20251106-WA0036](https://github.com/user-attachments/assets/ce312564-fae4-422b-9dfc-46e0a5f09e75)
 
 
-a.   KVL:
+![IMG-20251106-WA0037](https://github.com/user-attachments/assets/2bff5208-7d32-4580-82fa-bbb9a13c1cc5)
 
 
+![IMG-20251106-WA0038](https://github.com/user-attachments/assets/7dd0c835-6bde-4cd1-8fcc-f73b411a0a64)
 
-
-<img width="608" height="365" alt="image" src="https://github.com/user-attachments/assets/14518e6c-ae70-4c2f-8966-b0dc6aedf4a8" />
-
- 
-
-
-b.  KCL:
-
-
-
-<img width="565" height="347" alt="image" src="https://github.com/user-attachments/assets/52079a02-c82a-492a-94c6-871fad9a300a" />
-
-
-
-
-
-## CIRCUIT DAIGRAM FOR KCL
+<img width="1394" height="763" alt="Screenshot 2025-11-06 182042" src="https://github.com/user-attachments/assets/aa15a1d2-37f8-4224-8276-0da7eaa05f47" />
 
 
 
-<img width="836" height="447" alt="image" src="https://github.com/user-attachments/assets/cb92a33f-8f42-4767-808c-7b93ceea7293" />
-
-
-
-
-
-## OBSERVATION TABLE
-
-
-
- <img width="551" height="498" alt="image" src="https://github.com/user-attachments/assets/0166941e-e18d-46a8-85be-f504deed01ba" />
-
- 
-
-## CIRCUIT DAIGRAM FOR KVL
-
-
-
-<img width="694" height="374" alt="image" src="https://github.com/user-attachments/assets/e808da99-c0f7-4481-8e9e-8bd6caa98165" />
-
-
-
-## OBSERVATION TABLE
-
-
-
-<img width="506" height="511" alt="image" src="https://github.com/user-attachments/assets/066f9d9a-0e96-424d-80cb-d32f11aaa43b" />
-
-
-
-## Calculation:
-
-
-
-<img width="554" height="936" alt="image" src="https://github.com/user-attachments/assets/a9e2fd89-8f17-4742-a784-fdef35414461" />
-
+<img width="1384" height="745" alt="image" src="https://github.com/user-attachments/assets/72ba65dd-a7d8-46ae-8af1-5aee369c0ea2" />
 
 
 RESULT:
